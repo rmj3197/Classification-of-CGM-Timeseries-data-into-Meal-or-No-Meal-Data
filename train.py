@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Raktim Mukhopadhyay 1217167380
 
 # In[179]:
 
